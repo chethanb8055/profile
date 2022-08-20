@@ -1,0 +1,75 @@
+body{
+  margin: 0;
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 80%;
+
+}
+h1{
+
+  margin: 0 auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  font-size: 2.0rem;
+  color: #66BFBE;
+}
+h2{
+  color: #66BFBE;
+  font-size: 1.5rem;
+  font-family: 'Merriweather', serif;
+  text-align: center;
+  margin: 10px auto 10px auto;
+
+}
+h3{
+  color: #66BFBE;
+  font-family: 'Merriweather', serif;
+}
+.top{
+  background-color: #E4F9F5;
+  position: relative;
+  padding: 100px;
+}
+
+hr{
+border: dotted #EAF6F6 6px;
+border-bottom: none;
+width: 5%;
+margin: 100px auto;
+}
+.profile{
+  margin:30px auto 100px auto;
+}
+
+.bottom-cloud{
+  position: absolute;
+  left: 500px;
+
+}
+.top-cloud{
+  position:absolute;
+  right: 450px;
+  top: 50px;
+}
+.skill-row{
+  width: 60%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height:2;
+}
+.code-img{
+  width: 40%;
+  float: left;
+  margin-right: 40px;
+}
+.chilli-img{
+  width: 40%;
+  float: right;
+  margin:auto 40px auto 40px;
+}
+.contact-me{
+  margin: 100px auto 10px auto;
+
+}
+#p1{
+  width: 40;
+}
